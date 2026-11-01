@@ -7,3 +7,4 @@ requests
 Jupyter
 streamlit
 pickle-mixin
+flask
