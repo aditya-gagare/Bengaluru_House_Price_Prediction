@@ -5,3 +5,5 @@ matplotlib
 seaborn
 requests
 Jupyter
+streamlit
+pickle-mixin
