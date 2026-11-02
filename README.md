@@ -138,8 +138,11 @@ flowchart TD
 
 ### Home Page
 
-Screenshots\Homepage.png
+![Home page](Screenshots\Homepage.png)
+
 ### Prediction Result
+
+![Home page](Screenshots\Prediction result.png)
 
 Screenshots\Prediction result.png
 
