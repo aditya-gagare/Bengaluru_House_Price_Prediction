@@ -1,0 +1,35 @@
+body {
+    background-image: url("../images/background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+.main-card {
+    background-color: rgba(255, 255, 255, 0.80);
+    border-radius: 12px;
+}
+body {
+    background-image:
+        linear-gradient(
+            rgba(0, 0, 0, 0.30),
+            rgba(0, 0, 0, 0.30)
+        ),
+        url("../images/background.png");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: url("../images/background.png") center / cover no-repeat;
+    filter: blur(4px);
+    transform: scale(1.03);
+    z-index: -1;
+}
