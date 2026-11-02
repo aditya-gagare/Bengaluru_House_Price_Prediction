@@ -138,13 +138,11 @@ flowchart TD
 
 ### Home Page
 
-![Home page](Screenshots\Homepage.png)
+![Home_page](Screenshots/Homepage.png)
 
 ### Prediction Result
 
-![Prediction Image](Screenshots\Prediction result.png)
-
-Screenshots\Prediction result.png
+![Prediction_Image](Screenshots/PredictionResult.png)
 
 ## 📁 Project Structure
 
