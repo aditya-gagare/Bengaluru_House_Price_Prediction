@@ -142,7 +142,7 @@ flowchart TD
 
 ### Prediction Result
 
-![Home page](Screenshots\Prediction result.png)
+![Prediction Image](Screenshots\Prediction result.png)
 
 Screenshots\Prediction result.png
 
